@@ -28,15 +28,6 @@ Configure GCP credentials
 
 ---
 
-## 🔐 IMPORTANT (DON’T FORGET)
-
-Add `.gitignore`:
-
-```text
-.env
-*.json
-__pycache__/
-
 ## 📸 Example
 Question: "Is the brain normal?"
 Answer: "Yes, the CT scan is within normal limits."
